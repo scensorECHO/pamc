@@ -1,4 +1,5 @@
-#assetkeys
-#assetsexport.csv
-#assetstosearch.csv
-#exportkeys
+assetkeys
+assetsexport.csv
+assetstosearch.csv
+exportkeys
+*.csv
