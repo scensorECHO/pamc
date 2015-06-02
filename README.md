@@ -33,7 +33,6 @@ also break the functionality of this script as well, although this is to be fixe
 generation through analysis, rather than the preordained assetkeys file that is required.
 
 <h1>License</h1>
-<br>
 pamc is released under GNU GPLv3 License.
 <br>
 Copyright © 2015 Thomas Carrio
